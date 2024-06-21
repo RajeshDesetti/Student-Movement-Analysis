@@ -1,0 +1,133 @@
+RollNumber,Hostel,VisitingPlace,OutTime,InTime,OutTimeSeconds,InTimeSeconds,OutTimeOfDay,InTimeOfDay,Batch
+EC22B1116,Ashoka,Kandigai,05:35,06:40,20100,24000,Morning,Morning,2022
+CED191001,Ashwatha,Intern,07:30,17:20,27000,62400,Morning,Afternoon,2019
+ME20B2018,Ashwatha,Kandigai,07:35,08:00,27300,28800,Morning,Morning,2020
+CED191016,Ashwatha,Intern,07:50,17:30,28200,63000,Morning,Afternoon,2019
+EC22B1115,Ashoka,Kandigai,08:00,08:15,28800,29700,Morning,Morning,2022
+CS22B2012,Ashoka,Milano,08:00,08:20,28800,30000,Morning,Morning,2022
+EC21B1026,Ashwatha,Milano,08:00,08:25,28800,30300,Morning,Morning,2021
+EC21B1110,Ashwatha,Kandigai,08:00,08:25,28800,30300,Morning,Morning,2021
+EC21B1037,Ashwatha,Hospital,08:15,10:30,29700,37800,Morning,Morning,2021
+EC21B1033,Ashwatha,Tambaram,08:20,14:30,30000,52200,Morning,Afternoon,2021
+EC21B1036,Ashwatha,Kelambakkam,08:25,12:30,30300,45000,Morning,Afternoon,2021
+ME20B1055,Ashwatha,Kandigai,08:30,09:00,30600,32400,Morning,Morning,2020
+CS20B1084,Ashoka,Velacherry,08:40,15:00,31200,54000,Morning,Afternoon,2020
+ME20B1062,Ashwatha,Guindy,08:45,13:30,31500,48600,Morning,Afternoon,2020
+CS20B1066,Ashoka,Intern,08:45,18:00,31500,64800,Morning,Evening,2020
+ME20B1020,Ashwatha,Intern,08:45,17:30,31500,63000,Morning,Afternoon,2020
+ME20B1047,Ashwatha,Kandigai,08:50,09:30,31800,34200,Morning,Morning,2020
+CS21B2016,Ashwatha,Kandigai,08:50,09:45,31800,35100,Morning,Morning,2021
+EC23B2002,Ashoka,Tambaram,09:00,19:30,32400,70200,Morning,Evening,2023
+ME20B1012,Ashwatha,Hotel,09:00,10:30,32400,37800,Morning,Morning,2020
+CS22B1058,Ashoka,Shop,09:30,10:00,34200,36000,Morning,Morning,2022
+EC20B1094,Ashoka,Shop,09:45,10:00,35100,36000,Morning,Morning,2020
+EC20B1035,Ashoka,Hospital,10:25,11:30,37500,41400,Morning,Morning,2020
+ME21B1002,Ashwatha,Milano,11:00,12:00,39600,43200,Morning,Afternoon,2021
+ME21B1040,Ashwatha,Milano,11:00,12:00,39600,43200,Morning,Afternoon,2021
+ME21B1039,Ashwatha,Xerox,11:15,11:40,40500,42000,Morning,Morning,2021
+EC20B1095,Ashoka,Kandigai,11:30,12:15,41400,44100,Morning,Afternoon,2020
+ME23M2002,Ashoka,Hospital,11:40,13:05,42000,47100,Morning,Afternoon,2023
+CS23M2020,Ashoka,Hospital,11:40,13:05,42000,47100,Morning,Afternoon,2023
+ME21B1032,Ashwatha,Kandigai,12:00,13:05,43200,47100,Afternoon,Afternoon,2021
+ME21B1002,Ashwatha,Shop,12:30,13:30,45000,48600,Afternoon,Afternoon,2021
+CED191021,Ashwatha,Shop,12:30,13:10,45000,47400,Afternoon,Afternoon,2019
+EC22B1032,Ashoka,Mall,12:35,20:30,45300,73800,Afternoon,Evening,2022
+ME21B1052,Ashwatha,Tambaram,12:35,19:30,45300,70200,Afternoon,Evening,2021
+CS22B1070,Ashoka,Hotel,12:40,13:30,45600,48600,Afternoon,Afternoon,2022
+CS22B1025,Ashwatha,Shop,12:42,13:10,45720,47400,Afternoon,Afternoon,2022
+ME20B1002,Ashoka,Xerox,12:42,13:00,45720,46800,Afternoon,Afternoon,2020
+CS22B1010,Ashoka,Kelambakkam,12:45,18:30,45900,66600,Afternoon,Evening,2022
+CS22B1040,Ashoka,Kelambakkam,12:45,18:30,45900,66600,Afternoon,Evening,2022
+CS21B1061,Ashwatha,Mall,12:50,21:00,46200,75600,Afternoon,Evening,2021
+EC22B1098,Ashoka,Navlur,12:50,18:00,46200,64800,Afternoon,Evening,2022
+EC22B1028,Ashoka,Navlur,12:50,18:00,46200,64800,Afternoon,Evening,2022
+CS20B1041,Ashoka,Kandigai,12:55,13:30,46500,48600,Afternoon,Afternoon,2020
+CS20B1108,Ashoka,Kelambakkam,13:00,16:00,46800,57600,Afternoon,Afternoon,2020
+ME20B1045,Ashwatha,Kandigai,13:50,14:20,49800,51600,Afternoon,Afternoon,2020
+CS20B1038,Ashoka,Tambaram,14:20,17:00,51600,61200,Afternoon,Afternoon,2020
+EC23B1099,Ashwatha,Hospital,14:58,17:00,53880,61200,Afternoon,Afternoon,2023
+CS20B1031,Ashoka,Hospital,14:58,15:20,53880,55200,Afternoon,Afternoon,2020
+EC23B1014,Ashwatha,Mall,15:00,23:20,54000,84000,Afternoon,Evening,2023
+CS23B1054,Ashwatha,Kandigai,15:20,16:19,55200,58740,Afternoon,Afternoon,2023
+CS23B1026,Jasmine Annex,Milano,15:20,16:19,55200,58740,Afternoon,Afternoon,2023
+ME23B1074,Ashwatha,Hospital,15:20,18:00,55200,64800,Afternoon,Evening,2023
+ME23B1070,Ashwatha,Hospital,15:20,18:00,55200,64800,Afternoon,Evening,2023
+CS23B1091,Ashwatha,Kovalam,15:20,19:00,55200,68400,Afternoon,Evening,2023
+ME23B2041,Ashwatha,Kovalam,15:25,19:00,55500,68400,Afternoon,Evening,2023
+EC23B1003,Jasmine Annex,Kovalam,15:30,19:00,55800,68400,Afternoon,Evening,2023
+CS23B1002,Jasmine Annex,Milano,15:31,17:20,55860,62400,Afternoon,Afternoon,2023
+CS23B1014,Jasmine Annex,Milano,15:31,17:20,55860,62400,Afternoon,Afternoon,2023
+EC23B1056,Jasmine Annex,Kandigai,15:35,17:25,56100,62700,Afternoon,Afternoon,2023
+CS23B1033,Jasmine Annex,Tambaram,15:37,20:00,56220,72000,Afternoon,Evening,2023
+EC23B1036,Jasmine Annex,Kovalam,15:38,20:20,56280,73200,Afternoon,Evening,2023
+EC23B1003,Jasmine Annex,Kovalam,15:40,17:20,56400,62400,Afternoon,Afternoon,2023
+EC23B2010,Jasmine Annex,Kandigai,15:45,16:00,56700,57600,Afternoon,Afternoon,2023
+EC23B2011,Jasmine Annex,Kandigai,15:45,16:00,56700,57600,Afternoon,Afternoon,2023
+EC23B2012,Jasmine Annex,Kandigai,15:45,16:00,56700,57600,Afternoon,Afternoon,2023
+EC23B2013,Ashwatha,Kandigai,16:03,17:30,57780,63000,Afternoon,Afternoon,2023
+EC23B2014,Ashwatha,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2015,Ashwatha,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2016,Ashwatha,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2017,Ashwatha,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2018,Jasmine Annex,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2019,Ashwatha,Kandigai,16:05,17:30,57900,63000,Afternoon,Afternoon,2023
+EC23B2020,Jasmine Annex,Kandigai,16:10,16:45,58200,60300,Afternoon,Afternoon,2023
+EC23B2021,Ashwatha,Kandigai,16:30,17:30,59400,63000,Afternoon,Afternoon,2023
+EC23B2022,Ashoka,Kandigai,16:30,17:45,59400,63900,Afternoon,Afternoon,2023
+EC23B2023,Ashoka,Kandigai,16:30,18:30,59400,66600,Afternoon,Evening,2023
+EC23B2024,Ashoka,Kandigai,16:30,20:00,59400,72000,Afternoon,Evening,2023
+EC23B2025,Ashwatha,Kandigai,16:30,20:00,59400,72000,Afternoon,Evening,2023
+EC23B2026,Ashwatha,Milano,16:40,18:00,60000,64800,Afternoon,Evening,2023
+EC23B2027,Ashwatha,Milano,16:50,17:35,60600,63300,Afternoon,Afternoon,2023
+EC23B2028,Ashwatha,Milano,16:50,17:35,60600,63300,Afternoon,Afternoon,2023
+EC23B2029,Ashwatha,Milano,16:50,20:00,60600,72000,Afternoon,Evening,2023
+EC23B2030,Ashwatha,Milano,17:05,17:35,61500,63300,Afternoon,Afternoon,2023
+EC23B2031,Ashoka,Kandigai,17:10,17:35,61800,63300,Afternoon,Afternoon,2023
+EC23B2032,Ashoka,Milano,17:20,18:30,62400,66600,Afternoon,Evening,2023
+EC23B2033,Ashoka,Milano,17:20,18:30,62400,66600,Afternoon,Evening,2023
+EC23B2034,Ashwatha,Milano,17:25,21:30,62700,77400,Afternoon,Evening,2023
+EC23B2035,Ashwatha,Shop,17:25,18:30,62700,66600,Afternoon,Evening,2023
+EC23B2036,Ashoka,Kandigai,17:30,19:30,63000,70200,Afternoon,Evening,2023
+EC22B1001,Ashoka,Kandigai,17:30,19:30,63000,70200,Afternoon,Evening,2022
+ME20B1057,Ashwatha,Kandigai,18:00,20:38,64800,74280,Evening,Evening,2020
+ME23B1027,Jasmine Annex,Chennai,18:10,18:20,65400,66000,Evening,Evening,2023
+EC21B1050,Ashwatha,Kandigai,18:15,18:45,65700,67500,Evening,Evening,2021
+CS23B1052,Jasmine Annex,Kandigai,18:20,18:38,66000,67080,Evening,Evening,2023
+CS20B1108,Ashwatha,Kandigai,18:20,20:30,66000,73800,Evening,Evening,2020
+EC20B2062,Ashoka,Kandigai,18:50,21:15,67800,76500,Evening,Evening,2020
+EC23B2011,Ashoka,Kandigai,18:50,19:50,67800,71400,Evening,Evening,2023
+EC21B1024,Ashwatha,Airport,19:10,22:30,69000,81000,Evening,Evening,2021
+EC23B1005,Jasmine Annex,Hotel,19:30,20:45,70200,74700,Evening,Evening,2023
+EC23B2003,Jasmine Annex,Hotel,19:30,20:45,70200,74700,Evening,Evening,2023
+CED191101,Ashwatha,Shop,19:30,20:45,70200,74700,Evening,Evening,2019
+CS20B1045,Ashoka,Kandigai,19:48,20:05,71280,72300,Evening,Evening,2020
+EC23B1103,Ashwatha,Kandigai,19:50,20:25,71400,73500,Evening,Evening,2023
+EC23B1122,Ashwatha,Kandigai,19:50,20:25,71400,73500,Evening,Evening,2023
+EC20B1078,Ashoka,Kandigai,20:03,20:44,72180,74640,Evening,Evening,2020
+EC20B1060,Ashoka,Kandigai,20:03,20:44,72180,74640,Evening,Evening,2020
+ME20B1056,Ashwatha,Kandigai,20:25,20:50,73500,75000,Evening,Evening,2020
+EC21B1033,Ashwatha,Kandigai,20:25,21:10,73500,76200,Evening,Evening,2021
+CS23B1005,Jasmine Annex,Kandigai,20:35,21:40,74100,78000,Evening,Evening,2023
+EVD192013,Ashwatha,Shop,20:35,21:08,74100,76080,Evening,Evening,2019
+ME21B1002,Ashwatha,Shop,20:35,21:08,74100,76080,Evening,Evening,2021
+ME20B2048,Ashwatha,Shop,20:35,20:55,74100,75300,Evening,Evening,2020
+CS20B1028,Ashoka,Milano,20:40,22:00,74400,79200,Evening,Evening,2020
+CS20B1031,Ashoka,Kandigai,20:40,21:20,74400,76800,Evening,Evening,2020
+ME20B2012,Ashoka,Kandigai,20:40,20:50,74400,75000,Evening,Evening,2020
+EC23B1027,Jasmine Annex,Mall,20:40,21:25,74400,77100,Evening,Evening,2023
+CS23B1045,Ashwatha,Mall,20:40,21:25,74400,77100,Evening,Evening,2023
+EC23B1086,Ashwatha,Mall,20:40,21:25,74400,77100,Evening,Evening,2023
+EC23B1084,Ashwatha,Mall,20:40,21:25,74400,77100,Evening,Evening,2023
+CS21B2014,Ashwatha,Mall,20:40,21:00,74400,75600,Evening,Evening,2021
+CS20B1073,Ashoka,Kandigai,20:55,21:30,75300,77400,Evening,Evening,2020
+CS21B1053,Ashwatha,Kandigai,20:55,21:30,75300,77400,Evening,Evening,2021
+CS20B1044,Ashoka,Kandigai,20:55,21:25,75300,77100,Evening,Evening,2020
+CS20B1003,Ashoka,Kandigai,20:55,21:16,75300,76560,Evening,Evening,2020
+EC22B1071,Ashoka,Kandigai,20:55,21:30,75300,77400,Evening,Evening,2022
+CS22B2034,Ashwatha,Milano,21:15,21:50,76500,78600,Evening,Evening,2022
+ME20B2012,Ashwatha,Milano,21:20,21:50,76800,78600,Evening,Evening,2020
+ME23B1006,Jasmine Annex,Milano,21:35,22:00,77700,79200,Evening,Evening,2023
+CED195036,Ashwatha,Kandigai,22:00,22:25,79200,80700,Evening,Evening,2019
+EC21B1005,Ashwatha,Kandigai,18:05,19:30,65100,70200,Evening,Evening,2021
+ME22B1021,Ashoka,Tambaram,17:10,21:25,61800,77100,Afternoon,Evening,2022
+EC23B1002,Jasmine Annex,Kandigai,18:30,20:25,66600,73500,Evening,Evening,2023
